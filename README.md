@@ -15,7 +15,7 @@ I am an **Information Science & Engineering** student based in Bangalore. I am p
 ---
 
 ### 📈 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faizavk&show_icons=true&theme=dark)
+![Your GitHub stats]https://github-readme-stats.vercel.app/api?username=faizavk&show_icons=true&theme=dark
 
 ---
 
