@@ -1,6 +1,6 @@
 # Hi there, I'm Faiza V K 👋
 
-I am an **Information Science & Engineering** student based in Bangalore. I am passionate about software development, exploring **AI/ML** and **Blockchain ** technology, and building community through tech.
+I am an **Information Science & Engineering** student based in Bangalore. I am passionate about software development, exploring **AI/ML** and **Blockchain** technology, and building community through tech.
 
 ---
 
