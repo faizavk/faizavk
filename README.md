@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Faiza V K 👋
 
-<!--
-**faizavk/faizavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Information Science & Engineering** student based in Bangalore. I am passionate about software development, exploring **AI/ML** and **Blockchain ** technology, and building community through tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🖥️ **Student:** Currently pursuing my Engineering degree at RVITM.
+- ⚡ **Open Source:** Enthusiastic about contributing to community-driven projects and participating in programs like **Social Winter of Code (SWOC)**.
+
+### 🛠️ Tech Stack 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### 📈 GitHub Activity
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faizavk&show_icons=true&theme=dark)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** https://linkedin.com/in/faizavk
