@@ -15,10 +15,5 @@ I am an **Information Science & Engineering** student at RVITM, Bangalore. I am 
 
 ---
 
-### 📈 GitHub Activity
-![Metrics](https://metrics.lecoq.io/faizavk?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Asia%2FKolkata)
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** https://linkedin.com/in/faizavk
