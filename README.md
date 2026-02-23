@@ -6,7 +6,7 @@ I am an **Information Science & Engineering** student at RVITM, Bangalore. I am 
 
 ### 🚀 About Me
 - 🖥️ **Student:** Engineering student at RVITM.
-- ⚡ **Open Source:** Enthusiastic about contributing to community-driven projects and participating in programs like **Social Winter of Code (SWOC)**.
+- ⚡ **Open Source:** Enthusiastic about contributing to community-driven projects.
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
